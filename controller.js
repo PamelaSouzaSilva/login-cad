@@ -18,10 +18,17 @@ var dadosLista = [];
 function salvarUser(){
     let nomeUser = document.getElementById('nomeUser').value;
 
+
     if(nomeUser){
 
     } else{
         alert("Favor, informar um nome");
     }
 
+}
+
+// FUNÇÃO DE CRIAÇÃO DE LISTA 
+function criaLista(){
+    let tabela = document.getElementById('tabela').
+    innerHTML = "<tr><th>Nome Usuário</th><th>Ações</th></tr>";
 }
