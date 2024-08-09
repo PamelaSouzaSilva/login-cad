@@ -78,7 +78,7 @@ Explicação: Esta função exclui um nome de usuário da lista quando o botão 
 - CSS3;
 - GitHub;
 - Git;
-- JavaScript
+- JavaScript;
 
 
 ## Autores
