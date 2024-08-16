@@ -10,6 +10,7 @@ O projeto consiste em duas páginas principais:
 - Página de Login (login.html): Permite que os usuários insiram seu e-mail e senha para acessar a página de cadastro.
 
 <img src= "cadastro.png">
+<img src= "cadastros.png">
 
 ## Funcionalidade dos códigos JavaScript
 - Validação de login:
